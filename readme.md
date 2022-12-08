@@ -1,8 +1,10 @@
 # WebToEpub
 (c) 2015 David Teviotdale   
 
-Extension for Firefox and Chrome that converts Web Novels (and other web pages) into an EPUB.
-Works with many sites, including the following:
+小説家になろうやウェブノベルなどをePubに変換するChromeとFirefoxのエキステンション。
+色々なサイトに適用、例えば：
+* yomou.syosetu.com
+* kakuyomu.jp
 * Baka-Tsuki.org
 * ArchiveOfOurOwn.org
 * blogspot (some)
@@ -163,3 +165,6 @@ WebToEpub uses the following libraries:
 > * Set it to false
 > * Load `unitTest/Tests.html`
 > * (Remember to reset `security.fileuri.strict_origin_policy` to true when done.
+
+### キンドル対応
+Calibreを使ってePubからmobiフォーマットへ変換すれことが最適です。
