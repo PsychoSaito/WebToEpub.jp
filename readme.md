@@ -2,7 +2,7 @@
 (c) 2015 David Teviotdale   
 
 小説家になろうやウェブノベルなどをePubに変換するChromeとFirefoxのエキステンション。
-色々なサイトに適用、例えば：
+色々なサイトに使用できます、例えば：
 * yomou.syosetu.com
 * kakuyomu.jp
 * Baka-Tsuki.org
