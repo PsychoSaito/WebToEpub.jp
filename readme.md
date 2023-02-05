@@ -1,4 +1,4 @@
-# WebToEpub
+# WebToEpub - ウェブからEPUBへ
 (c) 2015 David Teviotdale   
 
 小説家になろうやウェブノベルなどをePubに変換するChromeとFirefoxのエキステンション。
